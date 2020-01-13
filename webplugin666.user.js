@@ -560,16 +560,7 @@ function initPokeLifeScript(){
     initAutoGo();
     
     
-    // **********************
-    //
-    // initVersionInfo
-    // Funkcja dodająca numer wersji na dole strony
-    //
-    // **********************
-    function initVersionInfo(){
-        $('body').append('<div id="newVersionInfo" style="border-radius: 4px; position: fixed; cursor: pointer; bottom: 10px; right: 20px; font-size: 19px; text-align: center; width: auto; height: 30px; line-height: 35px; z-index: 9998; text-align: right;"><a style="color: yellow !important;text-decoration:none;" target="_blank" IMI_v1.0 + '</a></div>');
-    };
-    initVersionInfo();
+    
 }
 initPokeLifeScript();
 
