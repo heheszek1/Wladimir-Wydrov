@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         FightSimulator
+// @name         fightplugin666
 // @version      0.1.5
-// @description  Dodatek do gry Pokelife - symulator walki
+// @description  fightplugin
 // @match        pokelife.pl
-// @downloadURL  https://github.com/krozum/pokelife/raw/master/FightSimulator.user.js
-// @updateURL    https://github.com/krozum/pokelife/raw/master/FightSimulator.user.js
+// @downloadURL  https://github.com/heheszek1/Wladimir-Wydrov/raw/master/fightplugin666.user.js
+// @updateURL    https://github.com/heheszek1/Wladimir-Wydrov/raw/master/fightplugin666.user.js
 // ==/UserScript==
 
 // let poziom_pokemona = 100;
