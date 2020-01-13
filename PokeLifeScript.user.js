@@ -3,8 +3,8 @@
 // @version      5.0.2
 // @description  hehe
 // @match        https://gra.pokelife.pl/*
-// @downloadURL  https://github.com/krozum/pokelife/raw/master/PokeLifeScript.user.js
-// @updateURL    https://github.com/krozum/pokelife/raw/master/PokeLifeScript.user.js
+// @downloadURL  https://github.com/heheszek1/Wladimir-Wydrov/blob/master/PokeLifeScript.user.js
+// @updateURL    https://github.com/heheszek1/Wladimir-Wydrov/blob/master/PokeLifeScript.user.js
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // @require      https://bug7a.github.io/iconselect.js/sample/lib/control/iconselect.js
