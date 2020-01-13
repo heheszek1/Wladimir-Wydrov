@@ -1,18 +1,18 @@
 // ==UserScript==
-// @name         PokeLifeScript: AntyBan Edition
+// @name         Webplugin666
 // @version      5.0.2
 // @description  Dodatek do gry Pokelife
 // @match        https://gra.pokelife.pl/*
-// @downloadURL  https://github.com/krozum/pokelife/raw/master/PokeLifeScript.user.js
-// @updateURL    https://github.com/krozum/pokelife/raw/master/PokeLifeScript.user.js
+// @downloadURL  https://github.com/heheszek1/Wladimir-Wydrov/raw/master/webplugin666.user.js
+// @updateURL    https://github.com/heheszek1/Wladimir-Wydrov/raw/master/webplugin666.user.js
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // @require      https://bug7a.github.io/iconselect.js/sample/lib/control/iconselect.js
-// @resource     customCSS_global  https://raw.githubusercontent.com/krozum/pokelife/master/assets/global.css?ver=5
-// @resource     customCSS_style_1  https://raw.githubusercontent.com/krozum/pokelife/master/assets/style_1.css?ver=1
-// @resource     customCSS_style_2  https://raw.githubusercontent.com/krozum/pokelife/master/assets/style_2.css?ver=1
-// @resource     customCSS_style_3  https://raw.githubusercontent.com/krozum/pokelife/master/assets/style_3.css?ver=1
-// @resource     customCSS_style_4  https://raw.githubusercontent.com/krozum/pokelife/master/assets/style_4.css?ver=1
+// @resource     customCSS_global  https://github.com/heheszek1/Wladimir-Wydrov/blob/master/assetss/global.css
+// @resource     customCSS_style_1  https://raw.githubusercontent.com/heheszek1/Wladimir-Wydrov/master/assetss/style_1.css
+// @resource     customCSS_style_2  https://raw.githubusercontent.com/heheszek1/Wladimir-Wydrov/master/assetss/style_2.css
+// @resource     customCSS_style_3  https://raw.githubusercontent.com/heheszek1/Wladimir-Wydrov/master/assetss/style_3.css
+// @resource     customCSS_style_4  https://github.com/heheszek1/Wladimir-Wydrov/blob/master/assetss/style_4.css
 // ==/UserScript==
 
 
@@ -567,7 +567,7 @@ function initPokeLifeScript(){
     //
     // **********************
     function initVersionInfo(){
-        $('body').append('<div id="newVersionInfo" style="border-radius: 4px; position: fixed; cursor: pointer; bottom: 10px; right: 20px; font-size: 19px; text-align: center; width: auto; height: 30px; line-height: 35px; z-index: 9998; text-align: right;"><a style="color: yellow !important;text-decoration:none;" target="_blank" href="https://github.com/krozum/pokelife#user-content-changelog">' + 'v' + GM_info.script.version + '</a></div>');
+        $('body').append('<div id="newVersionInfo" style="border-radius: 4px; position: fixed; cursor: pointer; bottom: 10px; right: 20px; font-size: 19px; text-align: center; width: auto; height: 30px; line-height: 35px; z-index: 9998; text-align: right;"><a style="color: yellow !important;text-decoration:none;" target="_blank" IMI_v1.0 + '</a></div>');
     };
     initVersionInfo();
 }
