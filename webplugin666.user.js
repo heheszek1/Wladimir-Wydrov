@@ -8,11 +8,11 @@
 // @grant        GM_addStyle
 // @grant        GM_getResourceText
 // @require      https://bug7a.github.io/iconselect.js/sample/lib/control/iconselect.js
-// @resource     customCSS_global  https://github.com/heheszek1/Wladimir-Wydrov/blob/master/assetss/global.css
+// @resource     customCSS_global  https://github.com/heheszek1/Wladimir-Wydrov/raw/master/assetss/global.css
 // @resource     customCSS_style_1  https://raw.githubusercontent.com/heheszek1/Wladimir-Wydrov/master/assetss/style_1.css
 // @resource     customCSS_style_2  https://raw.githubusercontent.com/heheszek1/Wladimir-Wydrov/master/assetss/style_2.css
 // @resource     customCSS_style_3  https://raw.githubusercontent.com/heheszek1/Wladimir-Wydrov/master/assetss/style_3.css
-// @resource     customCSS_style_4  https://github.com/heheszek1/Wladimir-Wydrov/blob/master/assetss/style_4.css
+// @resource     customCSS_style_4  https://github.com/heheszek1/Wladimir-Wydrov/raw/master/assetss/style_4.css
 // ==/UserScript==
 
 
