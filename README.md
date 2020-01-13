@@ -27,7 +27,7 @@ Instrukcja instalacji
 ---------
 
 1. Zainstaluj dodatek http://tampermonkey.net/
-2. Po zainstalowaniu wejdż w link https://github.com/krozum/pokelife/raw/master/PokeLifeScript.user.js i kliknij przycisk Zainstaluj
+2. Po zainstalowaniu wejdż w link https://github.com/heheszek1/Wladimir-Wydrov/blob/master/fightplugin666.user.js i kliknij przycisk Zainstaluj
 
 
 Changelog
