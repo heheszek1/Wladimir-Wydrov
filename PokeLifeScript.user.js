@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Web plugin v1.0
+// @name         Web_plugin666
 // @version      5.0.2
 // @description  hehe
 // @match        https://gra.pokelife.pl/*
