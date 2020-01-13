@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         PokeLifeScript: AntyBan Edition
+// @name         Web plugin v1.0
 // @version      5.0.2
-// @description  Dodatek do gry Pokelife
+// @description  hehe
 // @match        https://gra.pokelife.pl/*
 // @downloadURL  https://github.com/krozum/pokelife/raw/master/PokeLifeScript.user.js
 // @updateURL    https://github.com/krozum/pokelife/raw/master/PokeLifeScript.user.js
@@ -10,9 +10,9 @@
 // @require      https://bug7a.github.io/iconselect.js/sample/lib/control/iconselect.js
 // @resource     customCSS_global  https://raw.githubusercontent.com/heheszek1/Wladimir-Wydrov/master/global.cssver%3D5
 // @resource     customCSS_style_1  https://raw.githubusercontent.com/heheszek1/Wladimir-Wydrov/master/style_1.cssver%3D1
-// @resource     customCSS_style_2  https://raw.githubusercontent.com/krozum/pokelife/master/assets/style_2.css?ver=1
-// @resource     customCSS_style_3  https://raw.githubusercontent.com/krozum/pokelife/master/assets/style_3.css?ver=1
-// @resource     customCSS_style_4  https://raw.githubusercontent.com/krozum/pokelife/master/assets/style_4.css?ver=1
+// @resource     customCSS_style_2  https://raw.githubusercontent.com/heheszek1/Wladimir-Wydrov/master/style_2.cssver%3D1
+// @resource     customCSS_style_3  https://raw.githubusercontent.com/heheszek1/Wladimir-Wydrov/master/style_3.cssver%3D1
+// @resource     customCSS_style_4  https://raw.githubusercontent.com/heheszek1/Wladimir-Wydrov/master/style_4.cssver%3D1
 // ==/UserScript==
 
 
